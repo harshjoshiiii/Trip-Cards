@@ -1,2 +1,6 @@
-# Trip Cards
-This is a mini project created using React, named "Trip Cards." I developed it using React and utilized the useState hook for effective state management.
+## For using this project:
+step i: Clone the repository:
+   ```bash
+git clone 'https://github.com/your-username/your-repo.git'
+step ii: Install all dependencies: npm install
+step iii: Run the project : npm start
